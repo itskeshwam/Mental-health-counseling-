@@ -4,7 +4,7 @@ A Django-based chat interface backed by the OpenAI Chat Completions API.
 
 ## Requirements
 
-- Python 3.10+
+- Python 3.10–3.12 (Django 4.2 compatibility)
 - An OpenAI API key
 
 ## Setup
